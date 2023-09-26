@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Developer from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreegadi&label=Profile%20views&color=0e75b6&style=flat" alt="shreegadi" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **Climate change project**
+- 🤝 I’m looking for help with **Climate change projects**
 
-- 💬 Ask me about **Java, Spring boot,Vue, AWS,GCP**
+- 💬 Ask me about **Java, Spring boot,ReactJs, JavaScript, VueJs, AWS, GCP**
 
 - 📫 How to reach me **rohitrshreegadi@gmail.com**
 
